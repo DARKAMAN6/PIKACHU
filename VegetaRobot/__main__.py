@@ -79,43 +79,43 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-[🌸](https://te.legra.ph/file/40f0d50ddca4000984e64.jpg)𝓱𝓮𝔂 𝓽𝓱𝓮𝓻𝓮 𝓶𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 *🌸𝓪𝓵𝓮𝔁𝓪 𝓻𝓸𝓫𝓸𝓽🌸* 𝓲'𝓶 𝓪 𝓹𝓸𝔀𝓮𝓻𝓯𝓾𝓵𝓵 𝓰𝓻𝓸𝓾𝓹 𝓶𝓪𝓷𝓪𝓰𝓮𝓻 𝓫𝓸𝓽 𝔀𝓲𝓽𝓱 𝓬𝓸𝓸𝓵 𝓶𝓸𝓭𝓾𝓵𝓮𝓼. 𝓯𝓮𝓵𝓵 𝓯𝓻𝓮𝓮 𝓽𝓸 𝓪𝓭𝓭 𝓶𝓮 𝓽𝓸 𝔂𝓸𝓾𝓻 𝓰𝓻𝓸𝓾𝓹𝓼 𝓱𝓲𝓽 𝓱𝓮𝓵𝓹 𝓫𝓾𝓽𝓽𝓸𝓷 𝓽𝓸 𝓴𝓷𝓸𝔀 𝓶𝔂 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼\n
-[𝓼𝓾𝓹𝓹𝓸𝓻𝓽](t.me/DARKAMANSUPPORT)  [𝓬𝓱𝓪𝓷𝓷𝓮𝓵](t.me/DARKAMANCHANNEL)\n
+[༎⃝❤️](https://telegra.ph/file/069fc405200937ef35d0c.jpg)𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒 *🌸𝓪𝓵𝓮𝔁𝓪 𝓻𝓸𝓫𝓸𝓽🌸* 𝐈 𝐀𝐌 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋𝐋 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐌𝐄𝐍𝐓 𝐁𝐎𝐓 𝐖𝐈𝐓𝐇 𝐂𝐎𝐎𝐋 𝐌𝐎𝐃𝐔𝐋𝐄𝐒 ༎⃝➤\n
+[༎⃝❤️➤𝐑𝐎𝐘𝐀𝐋 𝐐𝐔𝐄𝐄𝐍𝄗⃝♡➻ﮩﮩ٨](t.me/R0Y41_QUEEN) [༎⃝❤️➤𝐑𝐎𝐘𝐀𝐋 𝐊𝐈𝐍𝐆𝄗⃝♡➻ﮩﮩ٨](t.me/R0Y41_KING)\n
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-                            text="🌸𝓪𝓭𝓭 𝓶𝓮 𝓽𝓸 𝔂𝓸𝓾𝓻 𝓰𝓻𝓸𝓾𝓹🌸",
-                            url="t.me/alexa_manager_robot?startgroup=true"),
+                            text="༎⃝✨𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐆𝐏 ༎⃝➤",
+                            url="t.me/STRINGHACKBOT?startgroup=true"),
                     ],
                     [                  
                        InlineKeyboardButton(
-                             text="🌸𝓼𝓾𝓹𝓹𝓸𝓻𝓽🌸",
+                             text="༎⃝💖𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ༎⃝➤",
                              url=f"https://t.me/{SUPPORT_CHAT}"),
                        InlineKeyboardButton(
-                             text="🌸𝓾𝓹𝓭𝓪𝓽𝓮𝓼🌸",
+                             text="༎⃝🔥𝐎𝐖𝐍𝐄𝐑𝐒 ༎⃝➤",
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
                         ],
                        [
-                           InlineKeyboardButton(text="🌸𝓱𝓮𝓵𝓹 𝓪𝓷𝓭 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼🌸", callback_data="help_back"
+                           InlineKeyboardButton(text="༎⃝🌺𝐇𝐄𝐋𝐏 ༎⃝➤", callback_data="help_back"
          ),
     ],
 ] 
 
 HELP_STRINGS = """
-✘ [𝓱𝓮𝔂](https://te.legra.ph/file/40f0d50ddca4000984e64.jpg) 𝓽𝓱𝓮𝓻𝓮𝔀 𝓲 𝓪𝓶 🌸𝓪𝓵𝓮𝔁𝓪 𝓻𝓸𝓫𝓸𝓽🌸 𝓽𝓸 𝓶𝓪𝓴𝓮 𝓶𝓮 𝓯𝓾𝓷𝓬𝓽𝓲𝓸𝓷𝓪𝓵, 𝓶𝓪𝓴𝓮 𝓼𝓾𝓻𝓮 𝓽𝓱𝓪𝓽 𝓲 𝓱𝓪𝓿𝓮 𝓮𝓷𝓸𝓾𝓰𝓱𝓽 𝓻𝓲𝓰𝓱𝓽𝓼 𝓲𝓷 𝔂𝓸𝓾𝓻 𝓰𝓻𝓸𝓾𝓹.
-✘ /start ☞︎︎︎ 𝓼𝓽𝓪𝓻𝓽𝓼 𝓶𝓮 𝔂𝓸𝓾'𝓿𝓮 𝓹𝓻𝓸𝓫𝓪𝓫𝓵𝔂 𝓪𝓵𝓻𝓮𝓪𝓭𝔂 𝓾𝓼𝓮𝓭 𝓽𝓱𝓲𝓼.
-✘ /help ☞︎︎︎ 𝓼𝓮𝓷𝓭𝓼 𝓽𝓱𝓲𝓼 𝓶𝓮𝓼𝓼𝓪𝓰𝓮 𝓲 𝔀𝓲𝓵𝓵 𝓽𝓮𝓵𝓵 𝔂𝓸𝓾 𝓶𝓸𝓻𝓮 𝓪𝓫𝓸𝓾𝓽 𝓶𝔂𝓼𝓮𝓵𝓯 𝓪𝓵𝓵 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼 𝓬𝓪𝓷 𝓫𝓮 𝓾𝓼𝓮𝓭 𝔀𝓲𝓽𝓱 𝓽𝓱𝓮 𝓯𝓸𝓵𝓵𝓸𝔀𝓲𝓷𝓰 ✘ (/),(!),(?),(.),(~)
+✘ [𝐇𝐄𝐘❤️](https://telegra.ph/file/069fc405200937ef35d0c.jpg) 𝐓𝐇𝐄𝐑𝐄 𝐈 𝐀𝐌 🌸𝓪𝓵𝓮𝔁𝓪 𝓻𝓸𝓫𝓸𝓽🌸 𝐓𝐎 𝐌𝐀𝐊𝐄 𝐌𝐄 𝐅𝐔𝐍𝐂𝐓𝐈𝐎𝐍𝐀𝐋, 𝐌𝐀𝐊𝐄 𝐒𝐔𝐑𝐄 𝐓𝐇𝐀𝐓 𝐈 𝐇𝐀𝐕𝐄 𝐄𝐍𝐎𝐔𝐆𝐇𝐓 𝐑𝐈𝐆𝐇𝐓𝐒 𝐈𝐍 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏❤️.
+✘ /start ☞︎︎︎ ❤️𝐒𝐓𝐀𝐑𝐓𝐒 𝐌𝐄 𝐘𝐎𝐔'𝐕𝐄 𝐏𝐑𝐎𝐁𝐀𝐁𝐋𝐘 𝐀𝐋𝐑𝐄𝐀𝐃𝐘 𝐔𝐒𝐄𝐃 𝐓𝐇𝐈𝐒❤️.
+✘ /help ☞︎︎︎ ❤️𝐒𝐄𝐍𝐃 𝐓𝐇𝐈𝐒 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐈 𝐖𝐈𝐋𝐋 𝐓𝐄𝐋𝐋 𝐘𝐎𝐔 𝐌𝐎𝐑𝐄 𝐀𝐁𝐎𝐔𝐓 𝐌𝐘𝐒𝐄𝐋𝐅 𝐀𝐋𝐋 𝐂𝐌𝐃 𝐂𝐀𝐍 𝐁𝐄 𝐔𝐒𝐄𝐃 𝐖𝐈𝐓𝐇 𝐓𝐇𝐄 𝐅𝐎𝐋𝐋𝐎𝐖𝐈𝐍𝐆❤️ ✘ (/),(!),(?),(.),(~)
 """.format( 
     dispatcher.bot.first_name,
-    "" if not ALLOW_EXCL else "✘ 𝒶𝓁𝓁 𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼 𝓬𝓪𝓷 𝓮𝓲𝓽𝓱𝓮𝓻 𝓫𝓮 𝓾𝓼𝓮𝓭 𝔀𝓲𝓽𝓱 / 𝓸𝓻 !.",
+    "" if not ALLOW_EXCL else "✘ 🌺𝐀𝐋𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 𝐂𝐀𝐍 𝐄𝐈𝐓𝐇𝐄𝐑 𝐁𝐄 𝐔𝐒𝐄𝐃 𝐖𝐈𝐓𝐇🌺 / 𝓸𝓻 !.",
 )
 
-HELP_MSG = "𝓬𝓵𝓲𝓬𝓴 𝓽𝓱𝓮 𝓫𝓾𝓽𝓽𝓸𝓷 𝓫𝓮𝓵𝓸𝔀 𝓽𝓸 𝓰𝓮𝓽 𝓱𝓮𝓵𝓹 𝓶𝓮𝓷𝓾𝓲𝓷 𝔂𝓸𝓾𝓻 𝓹𝓶."
-DONATE_STRING = """𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓽𝓸 [𝓭𝓪𝓻𝓴𝓪𝓶𝓪𝓷](t.me/darkaman)"""
-HELP_IMG= "https://te.legra.ph/file/40f0d50ddca4000984e64.jpg"
-START_IMG= "https://te.legra.ph/file/40f0d50ddca4000984e64.jpg"
+HELP_MSG = "💖𝐂𝐋𝐈𝐂𝐊 𝐓𝐇𝐄 𝐁𝐔𝐓𝐓𝐎𝐍 𝐁𝐄𝐋𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓 𝐇𝐄𝐋𝐏 𝐌𝐄𝐍𝐔 𝐈𝐍 𝐘𝐎𝐔𝐑 𝐏𝐌💖"
+DONATE_STRING = """🔥𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐓𝐎 [༎⃝❤️➤𝐑𝐎𝐘𝐀𝐋 𝐊𝐈𝐍𝐆𝄗⃝♡➻ﮩﮩ٨](t.me/R0Y41_KING)"""
+HELP_IMG= "https://telegra.ph/file/069fc405200937ef35d0c.jpg"
+START_IMG= "https://telegra.ph/file/069fc405200937ef35d0c.jpg"
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -226,15 +226,15 @@ def start(update: Update, context: CallbackContext):
     else:
         first_name = update.effective_user.first_name
         update.effective_message.reply_video(
-            START_IMG, caption= "*𝓱𝓮𝔂 {},*\n*🌸𝓪𝓵𝓮𝔁𝓪 𝓻𝓸𝓫𝓸𝓽 𝓲𝓼 𝓱𝓮𝓪𝓻🌸*\n*🌸𝓹𝓸𝔀𝓮𝓻 𝓵𝓮𝓿𝓮𝓵 𝓽𝓲𝓶𝓮🌸* ✘ {} ".format(
+            START_IMG, caption= "*𝐇𝐄𝐘 {},*\n**\n*༎⃝🥀𝐏𝐎𝐖𝐄𝐑 𝐋𝐄𝐕𝐄𝐋 𝐓𝐈𝐌𝐄༎⃝➤* ✘ {} ".format(
              first_name,uptime
             ),
             parse_mode=ParseMode.MARKDOWN,
         reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="🌸𝓼𝓾𝓹𝓹𝓸𝓻𝓽🌸 ", url=f"https://telegram.dog/{SUPPORT_CHAT}"),
-                  InlineKeyboardButton(text="🌸𝓾𝓹𝓭𝓪𝓽𝓮𝓼🌸", url=f"t.me/DARKAMANCHANNEL"),
+                  InlineKeyboardButton(text="༎⃝💖𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ༎⃝➤", url=f"https://telegram.dog/{SUPPORT_CHAT}"),
+                  InlineKeyboardButton(text="༎⃝💖𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ༎⃝➤", url=f"t.me/B0T0WN3R5"),
                   ]
                 ]
             ),
